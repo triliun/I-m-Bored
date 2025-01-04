@@ -1,0 +1,1 @@
+ ![preview](https://github.com/triliun/I-m-Bored/blob/main/bored.png)
