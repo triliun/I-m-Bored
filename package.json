@@ -1,0 +1,30 @@
+{
+  "name": "learn-api-5.3-axios",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "engines": {
+    "node": ">= 14.0.0",
+    "npm": ">= 6.0.0"
+  },
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "bugs": "",
+  "keywords": ["api project challenges"],
+  "author": "",
+  "contributors": [],
+  "scripts": {
+    "dev": "",
+    "test": ""
+  },
+  "description": "API Project Challenges",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
